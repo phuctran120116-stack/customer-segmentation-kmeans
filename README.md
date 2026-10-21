@@ -1,5 +1,3 @@
-# customer-segmentation-kmeans
-Behavioural segmentation of 5,000 fashion-retail customers with K-means, benchmarked against Hierarchical, GMM and DBSCAN (Python, scikit-learn)
 # Urban Tee – Customer Segmentation with K-Means
 
 **Who are a fashion retailer's customers, and which offer should each group get?**
